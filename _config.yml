@@ -1,5 +1,5 @@
 # _config.yml
-name: "Garry’s Data Viz & Analytics Portfolio"
+name: "Garry’s Data Visualization & Analytics Portfolio"
 description: "Banking + MIS + FinTech → Data storytelling with Power BI, Excel, and PowerPoint"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
