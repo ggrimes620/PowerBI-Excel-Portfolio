@@ -39,7 +39,7 @@ Below are highlights with instant previews and downloadable project files.
 
 ![PPT Cover](/PowerPoint/exports/StrategicManagement_1.png)
 
-**Files:** [PPTX](/PowerPoint/StrategicManagement_Presentation.pptx)
+**Files:** [PPTX](/PowerPoint/exports/StrategicManagement_Presentation.pptx)
 
 ---
 
