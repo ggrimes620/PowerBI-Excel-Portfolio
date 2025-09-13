@@ -8,5 +8,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+url: "https://ggrimes620.github.io"
+baseurl: "/PowerBI-Excel-Portfolio"
+
 logo: /PowerPoint/exports/cover_slide.png
 show_downloads: false
