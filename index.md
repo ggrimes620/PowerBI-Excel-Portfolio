@@ -16,7 +16,7 @@ Below are highlights with instant previews and downloadable project files.
 
 ![Sales Dashboard](/PowerBI/exports/VideoGames_1.png)
 
-**Files:** [PBIX](/PowerBI/DataCleaning_Visualization_VideoGames_PowerBI.pbix)
+**Files:** [PBIX](/PowerBI/exports/DataCleaning_Visualization_VideoGames_PowerBI.pbix)
 
 ---
 
