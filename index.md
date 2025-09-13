@@ -1,18 +1,25 @@
 ---
 layout: default
-title: Garry’s Data Visualization & Analytics Portfolio
+title: Garry Grimes | Data Visualization & Analytics
 ---
 
-<img src="/PowerPoint/exports/cover_slide.png" alt="Cover Slide" height="280" style="border-radius:12px;">
+<p align="center">
+  <img src="{{ site.baseurl }}/PowerPoint/exports/cover_slide.png" 
+       alt="Cover Slide" 
+       height="250" 
+       style="border-radius:12px;">
+</p>
 
+# 📊 Garry Grimes — Data Visualization & Analytics
 
 I translate raw banking data into dashboards leaders actually use.  
+🎓 BBA in **Management Information Systems** + FinTech minor  
+🏦 Truist banker turned **data storyteller**  
+💡 Skilled in **Power BI, Excel, SQL, and PowerPoint**
 
-🎓 BBA in Management Information Systems + FinTech minor  
-🏦 Truist banker turned data storyteller  
-💡 Skilled in Power BI, Excel, SQL, and PowerPoint
+<p><a href="mailto:YOUR.EMAIL@domain.com" class="btn">Contact Me</a> · <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a></p>
+<style>.btn{display:inline-block;padding:10px 16px;border:1px solid #222;border-radius:8px;text-decoration:none}</style>
 
-<p><a href="mailto:garrygrimes83@gmail.com" class="btn">Contact Me</a> · <a href="https://www.linkedin.com/in/garrygrimes">LinkedIn</a></p>
 
 
 
