@@ -11,7 +11,7 @@ I translate raw banking data into dashboards leaders actually use.
 💡 Skilled in Power BI, Excel, SQL, and PowerPoint
 
 <p><a href="mailto:garrygrimes83@gmail.com" class="btn">Contact Me</a> · <a href="https://www.linkedin.com/in/garrygrimes">LinkedIn</a></p>
-<style>.btn{display:inline-block;padding:10px 16px;border:1px solid #fff;border-radius:8px;text-decoration:none}</style>
+
 
 
 ## Featured Projects
