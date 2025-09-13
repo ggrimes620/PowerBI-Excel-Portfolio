@@ -8,7 +8,7 @@ title: Garry’s Data Viz & Analytics Portfolio
 I blend **banking + MIS + FinTech** with data storytelling in **Power BI, Excel, and PowerPoint**.
 Below are highlights with instant previews and downloadable project files.
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### Sales Performance Dashboard (Power BI)
 - Data Cleaning & Visualization (academic) - Cleaning and transforming data to create dashboards to help stakeholders realize profitability opportunities.
