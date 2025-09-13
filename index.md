@@ -20,13 +20,14 @@ Below are highlights with instant previews and downloadable project files.
 
 ---
 
-### Customer Segmentation & Forecasting (Excel)
-- Pivot tables + charts for LTV; trend forecasting
-- Demonstrates Excel as a lightweight BI tool
+### Fraud/AML Transaction Analysis (Excel)
+- Highlights volatility in **ACH & Cash transactions** as higher risk
+- Uses variance, standard deviation, and pivot tables to surface suspicious patterns
+- Links analysis to AML research dataset (IBM via Kaggle)
 
 ![Excel Dashboard](/Excel/exports/BankTestData_1.png)
 
-**Files:** [XLSX](/Excel/CustomerSegmentation.xlsx)
+**Files:** [XLSX][([/Excel/CustomerSegmentation.xlsx](https://www.icloud.com/iclouddrive/0e0TjVoIeLlM0eUgBiGKDPSIA#BankTestData_1))](https://www.icloud.com/iclouddrive/0e0TjVoIeLlM0eUgBiGKDPSIA#BankTestData_1)
 
 ---
 
