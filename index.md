@@ -3,6 +3,9 @@ layout: default
 title: Garry’s Data Visualization & Analytics Portfolio
 ---
 
+<img src="/PowerPoint/exports/cover_slide.png" alt="Cover Slide" height="280" style="border-radius:12px;">
+
+
 I translate raw banking data into dashboards leaders actually use.  
 
 🎓 BBA in Management Information Systems + FinTech minor  
