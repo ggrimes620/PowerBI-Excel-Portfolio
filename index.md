@@ -11,6 +11,7 @@ Below are highlights with instant previews and downloadable project files.
 ## 🔥 Featured Projects
 
 ### Sales Performance Dashboard (Power BI)
+- Data Cleaning & Visualization (academic) - Cleaning and transforming data to create dashboards to help stakeholders realize profitability opportunities.
 - KPIs: revenue, margin, churn; slicers for region & product line
 - Built for exec decision-making and weekly ops reviews
 
