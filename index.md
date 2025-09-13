@@ -33,17 +33,22 @@ Below are highlights with instant previews and downloadable project files.
 ---
 
 ### Executive KPI Presentation (PowerPoint)
-- Story-driven deck for leadership reporting
-- Mixes charts, insights, and recommendations
+- Strategic Management (academic) - deck designed for leadership reporting  
+- Combines charts, insights, and recommendations in a **storytelling flow**  
+- Tailored to both technical and non-technical audiences 
 
-![PPT Cover](/PowerPoint/exports/cover_slide.png)
+![PPT Cover](/PowerPoint/exports/StrategicManagement_1.png)
 
-**Files:** [PPTX](/PowerPoint/DashboardShowcase.pptx)
+**Files:** [PPTX](/PowerPoint/StrategicManagement_Presentation.pptx)
 
 ---
 
-## 🛠️ Stack
-**Power BI** (DAX, data modeling) · **Excel** (pivots, forecasting) · **SQL** · **PowerPoint** (storytelling) · **Git & GitHub**
+## 🛠️ Tools I Use  
+- **Power BI** → Interactive dashboards, DAX, data modeling  
+- **Excel** → Pivot tables, forecasting, advanced formulas  
+- **SQL** → Querying & structuring datasets  
+- **PowerPoint** → Visual storytelling for execs  
+- **GitHub** → Portfolio + version control  
 
 ## 📬 Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/garrygrimes
