@@ -3,16 +3,15 @@ layout: default
 title: Garry Grimes | Data Visualization & Analytics
 ---
 
-I translate raw banking data into dashboards leaders actually use.
+I transform **complex banking data into clear, actionable dashboards** that drive smarter decisions.  
 
-🎓 BBA in **Management Information Systems** + FinTech minor
-
-🏦 Truist banker turned **data storyteller**
-
-💡 Skilled in **Power BI, Excel, SQL, and PowerPoint**
-
+🎓 **BBA in Management Information Systems** with a **FinTech minor**  
+🏦 Experienced **client-facing banker** with insider knowledge of financial operations  
+📊 Emerging **data storyteller** skilled in **Power BI, Excel, SQL, and executive presentations**  
+💡 Passionate about bridging the gap between **frontline banking insights and enterprise analytics**  
 
 [📧 Contact Me](mailto:garrygrimes83@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/garrygrimes)
+
 
 
 
