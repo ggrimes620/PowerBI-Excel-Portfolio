@@ -14,7 +14,7 @@ Below are highlights with instant previews and downloadable project files.
 - KPIs: revenue, margin, churn; slicers for region & product line
 - Built for exec decision-making and weekly ops reviews
 
-![Sales Dashboard](/PowerBI/exports/sales_dashboard.png)
+![Sales Dashboard](/PowerBI/exports/VideoGames_1.png)
 
 **Files:** [PBIX](/PowerBI/SalesDashboard.pbix)
 
