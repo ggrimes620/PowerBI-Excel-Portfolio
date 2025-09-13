@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Garry’s Data Viz & Analytics Portfolio
+title: Garry’s Data Visualization & Analytics Portfolio
 ---
 
 # 📊 Garry’s Data Viz & Analytics Portfolio
