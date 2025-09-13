@@ -4,6 +4,7 @@ title: Garry’s Data Visualization & Analytics Portfolio
 ---
 
 I translate raw banking data into dashboards leaders actually use.  
+
 🎓 BBA in Management Information Systems + FinTech minor  
 🏦 Truist banker turned data storyteller  
 💡 Skilled in Power BI, Excel, SQL, and PowerPoint
