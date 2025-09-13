@@ -24,7 +24,7 @@ Below are highlights with instant previews and downloadable project files.
 - Pivot tables + charts for LTV; trend forecasting
 - Demonstrates Excel as a lightweight BI tool
 
-![Excel Dashboard](/Excel/exports/cust_segmentation.png)
+![Excel Dashboard](/Excel/exports/BankTestData_1.png)
 
 **Files:** [XLSX](/Excel/CustomerSegmentation.xlsx)
 
