@@ -27,7 +27,7 @@ Below are highlights with instant previews and downloadable project files.
 
 ![Excel Dashboard](/Excel/exports/BankTestData_1.png)
 
-**Files:** [XLSX][([/Excel/CustomerSegmentation.xlsx](https://www.icloud.com/iclouddrive/0e0TjVoIeLlM0eUgBiGKDPSIA#BankTestData_1))](https://www.icloud.com/iclouddrive/0e0TjVoIeLlM0eUgBiGKDPSIA#BankTestData_1)
+**Files:** [XLSX](https://www.icloud.com/iclouddrive/0e0TjVoIeLlM0eUgBiGKDPSIA#BankTestData_1)
 
 ---
 
