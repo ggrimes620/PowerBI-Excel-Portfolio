@@ -1,0 +1,1 @@
+Put PNG screenshots of your dashboards/slides here. Use 1400–1800px width for crisp previews.

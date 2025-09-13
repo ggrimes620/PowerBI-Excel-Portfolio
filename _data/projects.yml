@@ -1,0 +1,26 @@
+- title: Sales Performance Dashboard (Power BI)
+  img: /PowerBI/exports/sales_dashboard.png
+  bullets:
+    - KPIs: revenue, margin, churn; region & product slicers
+    - Built for exec decision-making and weekly ops
+  files:
+    - label: PBIX
+      path: /PowerBI/SalesDashboard.pbix
+
+- title: Customer Segmentation & Forecasting (Excel)
+  img: /Excel/exports/cust_segmentation.png
+  bullets:
+    - LTV pivots + trend forecasting
+    - Excel as a lightweight BI tool
+  files:
+    - label: XLSX
+      path: /Excel/CustomerSegmentation.xlsx
+
+- title: Executive KPI Presentation (PowerPoint)
+  img: /PowerPoint/exports/cover_slide.png
+  bullets:
+    - Story-driven deck for leadership
+    - Charts + insights + recommendations
+  files:
+    - label: PPTX
+      path: /PowerPoint/DashboardShowcase.pptx

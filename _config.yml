@@ -1,0 +1,8 @@
+# _config.yml
+name: "Garry’s Data Viz & Analytics Portfolio"
+description: "Banking + MIS + FinTech → Data storytelling with Power BI, Excel, and PowerPoint"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+logo: /PowerPoint/exports/cover_slide.png
+show_downloads: false
