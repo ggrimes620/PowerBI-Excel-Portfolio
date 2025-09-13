@@ -44,5 +44,5 @@ Below are highlights with instant previews and downloadable project files.
 **Power BI** (DAX, data modeling) · **Excel** (pivots, forecasting) · **SQL** · **PowerPoint** (storytelling) · **Git & GitHub**
 
 ## 📬 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- Email: youremail@example.com
+- LinkedIn: https://www.linkedin.com/in/garrygrimes
+- Email: garrygrimes83@gmail.com
