@@ -3,10 +3,16 @@ layout: default
 title: Garry’s Data Visualization & Analytics Portfolio
 ---
 
-# 📊 Garry’s Data Visualization & Analytics Portfolio
+# 📊 Garry Grimes — Data Visualization & Analytics
 
-I blend **banking + MIS + FinTech** with data storytelling in **Power BI, Excel, and PowerPoint**.
-Below are highlights with instant previews and downloadable project files.
+I translate raw banking data into dashboards leaders actually use.  
+🎓 BBA in Management Information Systems + FinTech minor  
+🏦 Truist banker turned data storyteller  
+💡 Skilled in Power BI, Excel, SQL, and PowerPoint
+
+<p><a href="mailto:garrygrimes83@gmail.com" class="btn">Contact Me</a> · <a href="https://www.linkedin.com/in/garrygrimes">LinkedIn</a></p>
+<style>.btn{display:inline-block;padding:10px 16px;border:1px solid #fff;border-radius:8px;text-decoration:none}</style>
+
 
 ## Featured Projects
 
