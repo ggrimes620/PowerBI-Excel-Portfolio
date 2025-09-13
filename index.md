@@ -3,6 +3,11 @@ layout: default
 title: Garry’s Data Visualization & Analytics Portfolio
 ---
 
+<p align="center">
+  <img src="/PowerPoint/exports/cover_slide.png" alt="Cover slide" width="960">
+</p>
+
+
 # 📊 Garry Grimes — Data Visualization & Analytics
 
 I translate raw banking data into dashboards leaders actually use.  
