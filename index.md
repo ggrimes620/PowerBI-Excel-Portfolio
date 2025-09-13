@@ -10,7 +10,9 @@ I transform **complex banking data into clear, actionable dashboards** that driv
 📊 Emerging **data storyteller** skilled in **Power BI, Excel, SQL, and executive presentations**  
 💡 Passionate about bridging the gap between **frontline banking insights and enterprise analytics**  
 
-[📧 Contact Me](mailto:garrygrimes83@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/garrygrimes)
+## 📬 Let’s Connect
+
+[📧 Email](mailto:garrygrimes83@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/garrygrimes)
 
 
 
@@ -59,6 +61,3 @@ I transform **complex banking data into clear, actionable dashboards** that driv
 - **PowerPoint** → Visual storytelling for execs  
 - **GitHub** → Portfolio + version control  
 
-## 📬 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/garrygrimes
-- Email: garrygrimes83@gmail.com
