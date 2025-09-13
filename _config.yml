@@ -5,4 +5,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 logo: https://cvws.icloud-content.com/B/AbNmp6GDikSG6lChkXqhD1oHignNAZWvzTnYao6zLulo38o8_VlDBaci/GarryG1.png?o=Au60JNM1nhYhiTEGNp6m3jfypUe02mw9Pjo-atqyqDvE&v=1&x=3&a=CAogff5Twr84VI30H3BDBywGyRQEYn9RTiAwdZHN90wa2gkSbxDZrNCelDMY2YmsoJQzIgEAUgQHignNWgRDBaciaidioAKNOkq_5L8m80jewQXq-h12AF9n7CUmwikxLZJv5KRMVsPrwXpyJ65HiBJCqNglD7Sv_7GtjD1-7_a1bx3nqCve8DI8YljHzDVL56DcNg&e=1757783196&fl=&r=051a8e39-4243-4de0-be31-e8d1f6bd2c70-1&k=GwOt7IPGoEUSd8Kig5miUA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=182&s=vxYbZKhR-gkmwlNYbIxxBeWfwfA&cd=i
-show_downloads: false
+show_downloads: true
