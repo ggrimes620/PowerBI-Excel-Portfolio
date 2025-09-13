@@ -15,3 +15,6 @@ See `README.md` sections below or visit the GitHub Pages site once enabled (inst
 2. Export screenshots (PNG) of your dashboards/slides into each `exports` folder.
 3. Edit `index.md` and `_data/projects.yml` with your actual project names and file paths.
 4. Turn on **GitHub Pages** (Settings → Pages → Deploy from branch).
+
+LinkedIn: https://www.linkedin.com/in/garrygrimes/
+Email: garrygrimes83@gmail.com
