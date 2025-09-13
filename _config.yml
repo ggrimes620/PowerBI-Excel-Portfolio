@@ -2,14 +2,14 @@ name: "Garry’s Data Visualization & Analytics Portfolio"
 title: "Garry Grimes | Data Visualization & Analytics"
 description: "Banking + MIS + FinTech → Dashboards & analysis in Power BI and Excel"
 
-remote_theme: pages-themes/cayman@v0.2.0
-logo: {{ site.baseurl }}/PowerPoint/exports/cover_slide.png
+url: "https://ggrimes620.github.io"
+baseurl: "/PowerBI-Excel-Portfolio"
+
+remote_theme: pages-themes/slate@v0.2.0
 
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-url: "https://ggrimes620.github.io"
-baseurl: "/PowerBI-Excel-Portfolio"
-
+logo: "{{ site.baseurl }}/PowerPoint/exports/cover_slide.png"
 show_downloads: false
