@@ -3,7 +3,7 @@ layout: default
 title: Garry’s Data Visualization & Analytics Portfolio
 ---
 
-# 📊 Garry’s Data Viz & Analytics Portfolio
+# 📊 Garry’s Data Visualization & Analytics Portfolio
 
 I blend **banking + MIS + FinTech** with data storytelling in **Power BI, Excel, and PowerPoint**.
 Below are highlights with instant previews and downloadable project files.
